@@ -1,7 +1,7 @@
 # Pyramid sorting and Knuth-Morris-Pratt search
 
 ##Description
-Implementation of pyramid sorting (HeapSort) and the Knuth-Morris-Pratt algorithm for searching for subsequences in a deck based on a doubly linked list.
+Implementation of pyramid sorting (HeapSort) and the Knuth-Morris-Pratt algorithm for searching for subsequences in a deck based on a doubly linked list. You can see an example of the program usage at the end of the PDF document.
 
 ##Project structure
 - **Deque** - two-way queue on a doubly linked list
