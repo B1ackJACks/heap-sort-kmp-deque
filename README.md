@@ -12,3 +12,5 @@ Implementation of pyramid sorting (HeapSort) and the Knuth-Morris-Pratt algorith
 ```bash
 g++ -std=c++11 main.cpp -o heapsort_kmp
 ./heapsort_kmp
+#!!!
+Example of use in pfd-document
